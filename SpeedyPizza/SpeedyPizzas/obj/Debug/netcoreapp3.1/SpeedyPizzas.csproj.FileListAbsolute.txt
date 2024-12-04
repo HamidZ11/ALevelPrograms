@@ -1,0 +1,17 @@
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\bin\Debug\netcoreapp3.1\SpeedyPizzas.exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\bin\Debug\netcoreapp3.1\SpeedyPizzas.deps.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\bin\Debug\netcoreapp3.1\SpeedyPizzas.runtimeconfig.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\bin\Debug\netcoreapp3.1\SpeedyPizzas.runtimeconfig.dev.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\bin\Debug\netcoreapp3.1\SpeedyPizzas.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\bin\Debug\netcoreapp3.1\SpeedyPizzas.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.csproj.AssemblyReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.Form1.resources
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.Properties.Resources.resources
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.csproj.GenerateResource.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.AssemblyInfoInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.AssemblyInfo.cs
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.csproj.CoreCompileInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SpeedyPizzas\SpeedyPizzas\obj\Debug\netcoreapp3.1\SpeedyPizzas.genruntimeconfig.cache
