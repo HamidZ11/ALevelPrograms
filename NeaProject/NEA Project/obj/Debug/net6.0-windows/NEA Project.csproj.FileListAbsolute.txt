@@ -1,0 +1,19 @@
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\bin\Debug\net6.0-windows\NEA Project.exe
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\bin\Debug\net6.0-windows\NEA Project.deps.json
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\bin\Debug\net6.0-windows\NEA Project.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\bin\Debug\net6.0-windows\NEA Project.dll
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\bin\Debug\net6.0-windows\NEA Project.pdb
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA_Project.FMBudgeting.resources
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA_Project.FMLogExpense.resources
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA_Project.FMMainMenu.resources
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.dll
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\refint\NEA Project.dll
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.pdb
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\NEA Project.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\NEA Project\NEA Project\obj\Debug\net6.0-windows\ref\NEA Project.dll
