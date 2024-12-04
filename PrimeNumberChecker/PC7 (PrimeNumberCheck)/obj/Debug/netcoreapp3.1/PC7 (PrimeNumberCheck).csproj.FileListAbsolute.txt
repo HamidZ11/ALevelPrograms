@@ -1,0 +1,42 @@
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).deps.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).runtimeconfig.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).runtimeconfig.dev.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).csproj.AssemblyReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).AssemblyInfoInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).AssemblyInfo.cs
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).csproj.CoreCompileInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).exe
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).deps.json
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).dll
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).pdb
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).dll
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).pdb
+C:\Users\Lenovo\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).genruntimeconfig.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).deps.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).runtimeconfig.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).runtimeconfig.dev.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\bin\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).csproj.AssemblyReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).AssemblyInfoInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).AssemblyInfo.cs
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).csproj.CoreCompileInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\w3Resources Recursion\PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck)\obj\Debug\netcoreapp3.1\PC7 (PrimeNumberCheck).genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PC7 (PrimeNumberCheck)", "PC7 (PrimeNumberCheck)\PC7 (PrimeNumberCheck).csproj", "{D9F1142C-B6AE-40DB-A532-8F42009AC340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F1142C-B6AE-40DB-A532-8F42009AC340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F1142C-B6AE-40DB-A532-8F42009AC340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F1142C-B6AE-40DB-A532-8F42009AC340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F1142C-B6AE-40DB-A532-8F42009AC340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C7634BC-7BBE-4884-9239-59F4CD72D103}
+	EndGlobalSection
+EndGlobal
