@@ -1,0 +1,15 @@
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\bin\Debug\net6.0\SmoothSentence progam.exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\bin\Debug\net6.0\SmoothSentence progam.deps.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\bin\Debug\net6.0\SmoothSentence progam.runtimeconfig.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\bin\Debug\net6.0\SmoothSentence progam.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\bin\Debug\net6.0\SmoothSentence progam.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\SmoothSentence progam.csproj.AssemblyReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\SmoothSentence progam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\SmoothSentence progam.AssemblyInfoInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\SmoothSentence progam.AssemblyInfo.cs
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\SmoothSentence progam.csproj.CoreCompileInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\SmoothSentence progam.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\refint\SmoothSentence progam.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\SmoothSentence progam.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\SmoothSentence progam.genruntimeconfig.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SmoothSentence progam\SmoothSentence progam\obj\Debug\net6.0\ref\SmoothSentence progam.dll

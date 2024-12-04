@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothSentence progam", "SmoothSentence progam\SmoothSentence progam.csproj", "{BD131CE7-00BE-49C7-B231-33817FE5330C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD131CE7-00BE-49C7-B231-33817FE5330C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD131CE7-00BE-49C7-B231-33817FE5330C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD131CE7-00BE-49C7-B231-33817FE5330C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD131CE7-00BE-49C7-B231-33817FE5330C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642AD673-7CBE-49CF-A352-4E5EC55F60AD}
+	EndGlobalSection
+EndGlobal
