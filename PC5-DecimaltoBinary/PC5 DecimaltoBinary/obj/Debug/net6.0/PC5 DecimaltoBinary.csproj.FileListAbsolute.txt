@@ -1,0 +1,15 @@
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\PC5 DecimaltoBinary.csproj.AssemblyReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\PC5 DecimaltoBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\PC5 DecimaltoBinary.AssemblyInfoInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\PC5 DecimaltoBinary.AssemblyInfo.cs
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\PC5 DecimaltoBinary.csproj.CoreCompileInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\bin\Debug\net6.0\PC5 DecimaltoBinary.exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\bin\Debug\net6.0\PC5 DecimaltoBinary.deps.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\bin\Debug\net6.0\PC5 DecimaltoBinary.runtimeconfig.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\bin\Debug\net6.0\PC5 DecimaltoBinary.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\bin\Debug\net6.0\PC5 DecimaltoBinary.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\PC5 DecimaltoBinary.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\refint\PC5 DecimaltoBinary.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\PC5 DecimaltoBinary.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\PC5 DecimaltoBinary.genruntimeconfig.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\Programming Challenges\PC5 DecimaltoBinary\PC5 DecimaltoBinary\obj\Debug\net6.0\ref\PC5 DecimaltoBinary.dll
