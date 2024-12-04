@@ -1,0 +1,13 @@
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\bin\Debug\SchoolBanking.exe.config
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\bin\Debug\SchoolBanking.exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\bin\Debug\SchoolBanking.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.csproj.AssemblyReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\Interop.ADOX.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.csproj.ResolveComReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.FmMenu.resources
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.Form2.resources
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.Properties.Resources.resources
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.csproj.GenerateResource.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.csproj.CoreCompileInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\SchoolBanking\SchoolBanking\obj\Debug\SchoolBanking.pdb
