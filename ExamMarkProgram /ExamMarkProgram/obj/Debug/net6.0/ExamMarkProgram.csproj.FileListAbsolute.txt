@@ -1,0 +1,15 @@
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\bin\Debug\net6.0\ExamMarkProgram.exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\bin\Debug\net6.0\ExamMarkProgram.deps.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\bin\Debug\net6.0\ExamMarkProgram.runtimeconfig.json
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\bin\Debug\net6.0\ExamMarkProgram.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\bin\Debug\net6.0\ExamMarkProgram.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ExamMarkProgram.csproj.AssemblyReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ExamMarkProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ExamMarkProgram.AssemblyInfoInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ExamMarkProgram.AssemblyInfo.cs
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ExamMarkProgram.csproj.CoreCompileInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ExamMarkProgram.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\refint\ExamMarkProgram.dll
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ExamMarkProgram.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ExamMarkProgram.genruntimeconfig.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\ExamMarkProgram\ExamMarkProgram\obj\Debug\net6.0\ref\ExamMarkProgram.dll
