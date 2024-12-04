@@ -1,0 +1,10 @@
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sy222599\OneDrive - Xaverian College\AQA A level Computer Science\WindowsFormsApp1 (Simple Calculator)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
